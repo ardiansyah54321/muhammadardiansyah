@@ -44,12 +44,19 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Tech Stack & Skills
 
-<p align="center">
+### Development & Tooling
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,mysql,postman,figma,python,tensorflow,linux&perline=7"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,javascript,swift,dart,cs,go" />
+</p>
 
+### 🎨 Design & Modeling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
 </p>
 
 ---
