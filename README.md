@@ -24,20 +24,20 @@
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://github.com/ardiansyah54321">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/ardiansyah54321" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/muhammad-ardiansyah-0343b727a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://www.instagram.com/_mzyyyyy_?igsh=MTF0a2lxZWllbDRodA==" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
 </a>
 
 </p>
