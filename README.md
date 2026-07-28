@@ -56,7 +56,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" width="48" height="48"/>
 </p>
 
 ---
