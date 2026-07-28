@@ -96,14 +96,11 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ardiansyah54321&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardiansyah54321&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ardiansyah54321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardiansyah54321&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -118,12 +115,10 @@
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ardiansyah54321&theme=tokyonight&column=4&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ardiansyah54321&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
