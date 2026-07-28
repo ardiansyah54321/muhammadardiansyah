@@ -49,14 +49,49 @@
 ### Development & Tooling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,javascript,swift,dart,cs,go" />
+
+<a href="https://docs.flutter.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://www.swift.org/documentation/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=swift" />
+</a>
+
+<a href="https://dart.dev/guides" target="_blank">
+  <img src="https://skillicons.dev/icons?i=dart" />
+</a>
+
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs" />
+</a>
+
+<a href="https://go.dev/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=go" />
+</a>
+
+<a href="https://docs.python.org/3/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
 </p>
 
 ### 🎨 Design & Modeling
 
 <p align="left">
+
+<a href="https://www.figma.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" width="48" height="48"/>
+</a>
+
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+</a>
+
 </p>
 
 ---
